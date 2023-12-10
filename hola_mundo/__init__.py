@@ -8,6 +8,6 @@ def exists():
 @check50.check(exists)
 def emma():
     """responde correctamente"""
-    check50.run("python3 hola.py").stdout("Hola, mundo!\nMinombre es Karlos\nAdios!").exit()
+    check50.run("python3 hola.py").stdout("Hola, mundo!\nMinombre es Karlos\nNos vemos!").exit()
 
 @check50.check(compiles)
