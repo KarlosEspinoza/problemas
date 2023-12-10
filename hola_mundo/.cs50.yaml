@@ -4,3 +4,9 @@ check50:
       - run: python3 hola.py
         stdout: Hola, mundo!
         exit: 0
+
+print("Hola mundo!")
+~ 2 nombre = "Karlos"
+~ 3 print(f"Mi nombre es {nombre}")
+~ 4 adios = "Nos vemos!"
+~ 5 print(adios)
