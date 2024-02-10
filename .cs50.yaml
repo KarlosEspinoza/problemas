@@ -1,0 +1,10 @@
+check50:
+  checks:
+    hello world:
+      - run: python3 hola.py
+        stdout: Hola, mundo!
+        exit: 0
+    foo:
+      - run: python3 hola.py Karlos
+        stdout: Hola Karlos
+        exit: 0
