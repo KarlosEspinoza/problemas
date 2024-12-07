@@ -1,4 +1,4 @@
 faces/faces.py
 indoor/indoor.py
 playback/playback.py
-README.txt
+calificacion.csv
