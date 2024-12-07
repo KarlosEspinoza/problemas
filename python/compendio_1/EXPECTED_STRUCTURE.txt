@@ -1,4 +1,7 @@
 faces/faces.py
+faces/captura.png
 indoor/indoor.py
+indoor/captura.png
 playback/playback.py
+playback/captura.png
 calificacion.csv
